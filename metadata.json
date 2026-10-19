@@ -1,0 +1,6 @@
+{
+  "name": "Mapas Visuais Fisioterapia",
+  "description": "+50 Mapas Visuais de Posicionamento de Eletrodos para Fisioterapia - Guia prático de consulta rápida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
